@@ -12,7 +12,7 @@ This project relies heavily on Apache NetBeans' integrated database system. It i
 
 ## Database Setup
 
-When creating a NetBean database, copy the path and add it to the DBConnection.java under database. Remeber your username and password as well and add them in DBConnection.java.
+When creating a NetBean database, copy the path and add it to the DBConnection.java under database. Remember your username and password as well and add them in DBConnection.java.
 
 ---
 
