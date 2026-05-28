@@ -15,9 +15,11 @@ import java.sql.SQLException;
  */
 public class DBConnection {
     private static Connection connection;
-    private static final String user = "java";
-    private static final String password = "java";
-    private static final String database = "jdbc:derby://localhost:1527/CourseSchedulerDBdillonlantzddl5280";
+
+    // Add your database path in the String database as well as your username in user and your password in password 
+    private static final String user = "";
+    private static final String password = "";
+    private static final String database = "";
 
     public static Connection getConnection()
     {
